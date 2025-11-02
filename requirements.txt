@@ -1,0 +1,7 @@
+discord.py
+ftfy
+discord-webhook
+stealth_requests
+supabase
+opennsfw2
+psycopg2-binary
