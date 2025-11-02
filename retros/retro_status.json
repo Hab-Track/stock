@@ -150,5 +150,15 @@
   "habbo.cm" : {
     "status": "Captcha",
     "date": "30/10/2025"
+  },
+  "ridgerp.com": {
+    "status": "Other",
+    "detail": "Dead, no update in several months",
+    "date": "02/11/2025"
+  },
+  "harbi.pw": {
+    "status": "Other",
+    "detail": "Dead, no update in several months",
+    "date": "02/11/2025"
   }
 }
