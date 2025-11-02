@@ -1,0 +1,17 @@
+name: Trigger Vercel Rebuild
+
+on:
+  push:
+    paths:
+      - 'retros/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel Deployment
+        run: |
+          curl -X POST "https://api.vercel.com/v13/deployments" \
+            -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{"name":"hab-track"}'
