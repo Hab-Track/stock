@@ -1,4 +1,4 @@
-name: Trigger Vercel Rebuild
+name: Trigger Vercel Deployment
 
 on:
   workflow_dispatch:
@@ -12,7 +12,4 @@ jobs:
     steps:
       - name: Trigger Vercel Deployment
         run: |
-          curl -X POST "https://api.vercel.com/v13/deployments" \
-            -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
-            -H "Content-Type: application/json" \
-            -d '{"name":"hab-track"}'
+          curl -X POST ${{ secrets.VERCEL_HOOK }}
