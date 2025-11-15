@@ -202,6 +202,13 @@
       "discord": "https://discord.gg/hartico"
     }
   },
+  "playlunar.life": {
+    "channel_id": 1438828141157290057,
+    "retro_info": {
+      "site": "https://playlunar.life",
+      "discord": null
+    }
+  },
   "habcrush.pw": {
     "channel_id": 1366394157060591648,
     "retro_info": {
