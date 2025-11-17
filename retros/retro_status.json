@@ -168,5 +168,9 @@
   "habland.com.tr": {
     "status": "Closed",
     "date": "11/11/2025"
+  },
+  "hubboz.com": {
+    "status": "Captcha",
+    "date": "17/11/2025"
   }
 }
