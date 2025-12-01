@@ -20,6 +20,13 @@
       "discord": "https://discord.gg/8bN62Y5fWV"
     }
   },
+  "hablix.org": {
+    "channel_id": 1366394573152063499,
+    "retro_info": {
+      "site": "https://hablix.org",
+      "discord": "https://discord.gg/xVEF7eZBrk"
+    }
+  },
   "habbzhotel.it": {
     "channel_id": 1426225031557681224,
     "retro_info": {
@@ -221,13 +228,6 @@
     "retro_info": {
       "site": "https://haddoz.net",
       "discord": "https://discord.gg/UmVKqqQCgH"
-    }
-  },
-  "hablix.org": {
-    "channel_id": 1366394573152063499,
-    "retro_info": {
-      "site": "https://hablix.org",
-      "discord": "https://discord.gg/xVEF7eZBrk"
     }
   },
   "habbocity.fr": {
