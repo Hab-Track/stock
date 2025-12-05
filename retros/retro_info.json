@@ -230,6 +230,13 @@
       "discord": "https://discord.gg/UmVKqqQCgH"
     }
   },
+  "hevvux.com": {
+    "channel_id": 1446220586580967424,
+    "retro_info": {
+      "site": "https://hevvux.com",
+      "discord": null
+    }
+  },
   "habbocity.fr": {
     "channel_id": 1268205322112077877,
     "retro_info": {
@@ -245,13 +252,6 @@
     "retro_info": {
       "site": "https://habbosk.us",
       "discord": "https://discord.gg/habbosk"
-    }
-  },
-  "habhub.net": {
-    "channel_id": 1295882429629993063,
-    "retro_info": {
-      "site": "https://habhub.net",
-      "discord": "https://discord.gg/habhub"
     }
   },
   "ironhotel.org": {
