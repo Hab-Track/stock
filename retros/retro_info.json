@@ -146,13 +146,6 @@
       "discord": "https://discord.gg/hobbaz"
     }
   },
-  "sohabbo.fr": {
-    "channel_id": 1405918475733438535,
-    "retro_info": {
-      "site": "https://sohabbo.fr",
-      "discord": "https://discord.gg/sAHjThpGwP"
-    }
-  },
   "hubba.cc": {
     "channel_id": 1268206542357008440,
     "retro_info": {
@@ -207,13 +200,6 @@
     "retro_info": {
       "site": "https://hartico.tv",
       "discord": "https://discord.gg/hartico"
-    }
-  },
-  "playlunar.life": {
-    "channel_id": 1438828141157290057,
-    "retro_info": {
-      "site": "https://playlunar.life",
-      "discord": null
     }
   },
   "habcrush.pw": {
