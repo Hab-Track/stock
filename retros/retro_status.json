@@ -197,5 +197,9 @@
   "webbohotel.it": {
     "status": "Captcha",
     "date": "08/01/2026"
+  },
+  "habbix.me": {
+    "status": "Captcha",
+    "date": "12/01/2026"
   }
 }
