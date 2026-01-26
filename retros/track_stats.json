@@ -24315,11 +24315,48 @@
     ]
   },
   "2026-01-25": {
+    "habblet.city": [
+      "35672 furnis",
+      "4541 clothes"
+    ],
+    "habblive.in": [
+      "44612 badges"
+    ],
+    "habbo.st": [
+      "24735 badges"
+    ],
+    "habbocity.fr": [
+      "50741 furnis",
+      "2411 clothes"
+    ],
+    "habborp.city": [
+      "4541 clothes"
+    ],
+    "habboz.ws": [
+      "11695 badges"
+    ],
+    "hartico.tv": [
+      "13929 badges",
+      "49336 furnis",
+      "7618 clothes"
+    ],
+    "hobba.tv": [
+      "30604 furnis",
+      "5565 clothes"
+    ],
+    "hobbaz.es": [
+      "7632 clothes"
+    ],
+    "ironhotel.org": [
+      "22327 badges"
+    ]
+  },
+  "2026-01-26": {
     "anubisrp.com": [
       "11349 badges",
       "25108 furnis",
       "6428 clothes",
-      "315 effects"
+      "331 effects"
     ],
     "atlantaserver.me": [
       "12663 badges",
@@ -24354,7 +24391,7 @@
       "458 effects"
     ],
     "habblive.in": [
-      "44612 badges",
+      "44613 badges",
       "53383 furnis",
       "5240 clothes",
       "494 effects"
@@ -24375,19 +24412,19 @@
       "4773 clothes",
       "530 effects",
       "13153 badges",
-      "36554 furnis"
+      "36596 furnis"
     ],
     "habbo.st": [
-      "24735 badges",
+      "24736 badges",
       "33671 furnis",
       "4221 clothes",
       "378 effects"
     ],
     "habbocity.fr": [
-      "27907 badges",
+      "27908 badges",
       "50741 furnis",
-      "2411 clothes",
-      "528 effects"
+      "2412 clothes",
+      "531 effects"
     ],
     "habbolife.org": [
       "27223 badges",
@@ -24426,7 +24463,7 @@
       "535 effects"
     ],
     "habboz.ws": [
-      "11695 badges",
+      "11696 badges",
       "63988 furnis",
       "1597 clothes",
       "449 effects"
@@ -24451,7 +24488,7 @@
     ],
     "habplace.se": [
       "10946 badges",
-      "23067 furnis",
+      "23070 furnis",
       "3010 clothes",
       "239 effects"
     ],
@@ -24488,7 +24525,7 @@
       "216 effects"
     ],
     "ironhotel.org": [
-      "22327 badges",
+      "22348 badges",
       "35271 furnis",
       "4500 clothes",
       "468 effects"
@@ -24500,9 +24537,9 @@
       "466 effects"
     ],
     "leethotel.biz": [
-      "9820 badges",
+      "9837 badges",
       "37680 furnis",
-      "4499 clothes",
+      "4541 clothes",
       "292 effects"
     ],
     "nabbo.es": [
@@ -24518,7 +24555,7 @@
       "204 effects"
     ],
     "peacehotel.my": [
-      "7855 badges",
+      "7856 badges",
       "19198 furnis",
       "3928 clothes",
       "432 effects"
