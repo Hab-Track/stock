@@ -205,5 +205,10 @@
   "hevvux.com": {
     "status": "Captcha",
     "date": "31/01/2026"
+  },
+  "habbo.ax": {
+    "status": "Other",
+    "detail": "AI slop",
+    "date": "01/01/2026"
   }
 }
