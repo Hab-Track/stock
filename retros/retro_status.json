@@ -210,5 +210,9 @@
     "status": "Other",
     "detail": "AI slop",
     "date": "01/01/2026"
+  },
+  "habbos.tv": {
+    "status": "Captcha",
+    "date": "04/02/2026"
   }
 }
