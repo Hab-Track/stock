@@ -217,5 +217,9 @@
   "habbolife.org": {
     "status": "Closed",
     "date": "29/04/2026"
+  },
+  "habbus.es": {
+    "status": "Captcha",
+    "date": "11/05/2026"
   }
 }
