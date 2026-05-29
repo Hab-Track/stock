@@ -41,6 +41,13 @@
       "discord": "https://discord.gg/JGsrpHtb37"
     }
   },
+  "habbo.cc": {
+    "channel_id": 1332086516519796840,
+    "retro_info": {
+      "site": "https://habbo.cc",
+      "discord": "https://discord.gg/mCuzmMX8MC"
+    }
+  },
   "habboz.ws": {
     "channel_id": 1268205401372102789,
     "retro_info": {
@@ -130,13 +137,6 @@
     "retro_info": {
       "site": "https://habbo.st",
       "discord": "https://discord.gg/habbo"
-    }
-  },
-  "habbo.gd": {
-    "channel_id": 1332086516519796840,
-    "retro_info": {
-      "site": "https://habbo.gd",
-      "discord": "https://discord.gg/mCuzmMX8MC"
     }
   },
   "habbo.ax": {
