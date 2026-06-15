@@ -223,7 +223,8 @@
     "date": "11/05/2026"
   },
   "habplace.se": {
-    "status": "Captcha",
+    "status": "Other",
+    "detail": "IP banned",
     "date": "14/06/2026"
   }
 }
