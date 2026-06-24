@@ -30231,6 +30231,35 @@
     ]
   },
   "2026-06-23": {
+    "habblet.city": [
+      "11656 badges",
+      "37094 furnis"
+    ],
+    "habblive.in": [
+      "45458 badges"
+    ],
+    "habbo.cc": [
+      "41523 furnis"
+    ],
+    "habbo.st": [
+      "25342 badges"
+    ],
+    "habbocity.fr": [
+      "28551 badges",
+      "51942 furnis"
+    ],
+    "habbox.co": [
+      "71957 furnis"
+    ],
+    "habbzhotel.it": [
+      "23886 furnis"
+    ],
+    "hartico.tv": [
+      "52377 furnis",
+      "8594 clothes"
+    ]
+  },
+  "2026-06-24": {
     "anubisrp.com": [
       "11349 badges",
       "25133 furnis",
@@ -30265,12 +30294,12 @@
     ],
     "habblet.city": [
       "11656 badges",
-      "37094 furnis",
+      "37095 furnis",
       "4765 clothes",
       "468 effects"
     ],
     "habblive.in": [
-      "45458 badges",
+      "45459 badges",
       "55387 furnis",
       "0 clothes",
       "521 effects"
@@ -30291,22 +30320,22 @@
       "7616 clothes",
       "514 effects",
       "14723 badges",
-      "41523 furnis"
+      "41584 furnis"
     ],
     "habbo.com": [
-      "12299 badges",
+      "12302 badges",
       "17902 furnis",
-      "11032 clothes",
+      "11036 clothes",
       "249 effects"
     ],
     "habbo.st": [
       "25342 badges",
-      "34343 furnis",
+      "34536 furnis",
       "7616 clothes",
       "378 effects"
     ],
     "habbocity.fr": [
-      "28551 badges",
+      "28552 badges",
       "51942 furnis",
       "2503 clothes",
       "533 effects"
@@ -30331,7 +30360,7 @@
     ],
     "habbox.co": [
       "9616 badges",
-      "71957 furnis",
+      "71966 furnis",
       "5181 clothes",
       "548 effects"
     ],
@@ -30344,7 +30373,7 @@
     "habbzhotel.it": [
       "10895 badges",
       "23886 furnis",
-      "13078 clothes",
+      "13229 clothes",
       "518 effects"
     ],
     "hablix.org": [
@@ -30358,7 +30387,7 @@
     ],
     "hartico.tv": [
       "0 badges",
-      "52377 furnis",
+      "52483 furnis",
       "8594 clothes",
       "909 effects"
     ],
@@ -30378,7 +30407,7 @@
       "31576 furnis",
       "21206 clothes",
       "335 effects",
-      "45985 badges"
+      "46032 badges"
     ],
     "hobbaz.es": [
       "8810 badges",
@@ -30447,7 +30476,7 @@
       "503 effects"
     ],
     "xkekos.tv": [
-      "61581 furnis"
+      "64365 furnis"
     ]
   }
 }
