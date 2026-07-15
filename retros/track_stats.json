@@ -30994,6 +30994,40 @@
     ]
   },
   "2026-07-14": {
+    "habblet.city": [
+      "11719 badges",
+      "38026 furnis"
+    ],
+    "habblive.in": [
+      "45943 badges",
+      "55404 furnis",
+      "528 effects"
+    ],
+    "habbo.cc": [
+      "41896 furnis"
+    ],
+    "habbo.com": [
+      "11061 clothes"
+    ],
+    "habbocity.fr": [
+      "28599 badges"
+    ],
+    "habborp.city": [
+      "4827 clothes"
+    ],
+    "habbzhotel.it": [
+      "24866 furnis"
+    ],
+    "leet.city": [
+      "4827 clothes"
+    ],
+    "leethotel.biz": [
+      "10625 badges",
+      "40880 furnis",
+      "4827 clothes"
+    ]
+  },
+  "2026-07-15": {
     "anubisrp.com": [
       "11349 badges",
       "25133 furnis",
@@ -31028,12 +31062,12 @@
     ],
     "habblet.city": [
       "11719 badges",
-      "38026 furnis",
+      "38027 furnis",
       "4827 clothes",
       "468 effects"
     ],
     "habblive.in": [
-      "45943 badges",
+      "45944 badges",
       "55404 furnis",
       "6745 clothes",
       "528 effects"
@@ -31057,19 +31091,19 @@
       "41896 furnis"
     ],
     "habbo.com": [
-      "12355 badges",
-      "17923 furnis",
+      "12356 badges",
+      "17924 furnis",
       "11061 clothes",
       "249 effects"
     ],
     "habbo.st": [
-      "25452 badges",
+      "25454 badges",
       "34536 furnis",
       "7616 clothes",
       "378 effects"
     ],
     "habbocity.fr": [
-      "28599 badges",
+      "28600 badges",
       "52162 furnis",
       "2503 clothes",
       "533 effects"
@@ -31099,14 +31133,14 @@
       "548 effects"
     ],
     "habboz.ws": [
-      "11786 badges",
+      "11787 badges",
       "63988 furnis",
       "1597 clothes",
       "449 effects"
     ],
     "habbzhotel.it": [
       "10900 badges",
-      "24866 furnis",
+      "24881 furnis",
       "14865 clothes",
       "519 effects"
     ],
@@ -31121,8 +31155,8 @@
     ],
     "hartico.tv": [
       "15307 badges",
-      "52630 furnis",
-      "8675 clothes",
+      "52633 furnis",
+      "8689 clothes",
       "921 effects"
     ],
     "hartix.es": [
@@ -31141,7 +31175,7 @@
       "32066 furnis",
       "22062 clothes",
       "348 effects",
-      "46464 badges"
+      "46466 badges"
     ],
     "hobbaz.es": [
       "8810 badges",
@@ -31151,7 +31185,7 @@
     ],
     "hubba.cc": [
       "12756 badges",
-      "29714 furnis",
+      "29718 furnis",
       "3403 clothes",
       "216 effects"
     ],
@@ -31162,7 +31196,7 @@
       "478 effects"
     ],
     "leet.city": [
-      "7475 badges",
+      "7481 badges",
       "42290 furnis",
       "4827 clothes",
       "466 effects"
@@ -31187,7 +31221,7 @@
     ],
     "peacehotel.my": [
       "7942 badges",
-      "21201 furnis",
+      "21203 furnis",
       "4302 clothes",
       "443 effects"
     ],
@@ -31210,7 +31244,7 @@
       "503 effects"
     ],
     "xkekos.tv": [
-      "64365 furnis"
+      "64557 furnis"
     ]
   }
 }
