@@ -31028,6 +31028,49 @@
     ]
   },
   "2026-07-15": {
+    "habblet.city": [
+      "38027 furnis"
+    ],
+    "habblive.in": [
+      "45944 badges"
+    ],
+    "habbo.com": [
+      "12356 badges",
+      "17924 furnis"
+    ],
+    "habbo.st": [
+      "25454 badges"
+    ],
+    "habbocity.fr": [
+      "28600 badges"
+    ],
+    "habboz.ws": [
+      "11787 badges"
+    ],
+    "habbzhotel.it": [
+      "24881 furnis"
+    ],
+    "hartico.tv": [
+      "52633 furnis",
+      "8689 clothes"
+    ],
+    "hobba.tv": [
+      "46466 badges"
+    ],
+    "hubba.cc": [
+      "29718 furnis"
+    ],
+    "leet.city": [
+      "7481 badges"
+    ],
+    "peacehotel.my": [
+      "21203 furnis"
+    ],
+    "xkekos.tv": [
+      "64557 furnis"
+    ]
+  },
+  "2026-07-16": {
     "anubisrp.com": [
       "11349 badges",
       "25133 furnis",
@@ -31061,13 +31104,13 @@
       "662 effects"
     ],
     "habblet.city": [
-      "11719 badges",
-      "38027 furnis",
+      "11724 badges",
+      "38028 furnis",
       "4827 clothes",
       "468 effects"
     ],
     "habblive.in": [
-      "45944 badges",
+      "45943 badges",
       "55404 furnis",
       "6745 clothes",
       "528 effects"
@@ -31088,10 +31131,10 @@
       "7616 clothes",
       "514 effects",
       "14745 badges",
-      "41896 furnis"
+      "41897 furnis"
     ],
     "habbo.com": [
-      "12356 badges",
+      "12359 badges",
       "17924 furnis",
       "11061 clothes",
       "249 effects"
@@ -31103,8 +31146,8 @@
       "378 effects"
     ],
     "habbocity.fr": [
-      "28600 badges",
-      "52162 furnis",
+      "28603 badges",
+      "52164 furnis",
       "2503 clothes",
       "533 effects"
     ],
@@ -31154,13 +31197,13 @@
       "29258 furnis"
     ],
     "hartico.tv": [
-      "15307 badges",
-      "52633 furnis",
+      "15308 badges",
+      "52636 furnis",
       "8689 clothes",
       "921 effects"
     ],
     "hartix.es": [
-      "171 badges",
+      "172 badges",
       "6745 clothes",
       "492 effects",
       "80368 furnis"
@@ -31192,7 +31235,7 @@
     "ironhotel.org": [
       "22905 badges",
       "36444 furnis",
-      "4802 clothes",
+      "4834 clothes",
       "478 effects"
     ],
     "leet.city": [
@@ -31244,7 +31287,7 @@
       "503 effects"
     ],
     "xkekos.tv": [
-      "64557 furnis"
+      "64969 furnis"
     ]
   }
 }
