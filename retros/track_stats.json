@@ -31411,6 +31411,43 @@
     ]
   },
   "2026-07-27": {
+    "habblet.city": [
+      "11739 badges",
+      "38056 furnis"
+    ],
+    "habblive.in": [
+      "46014 badges"
+    ],
+    "habbo.cc": [
+      "14759 badges",
+      "42059 furnis"
+    ],
+    "habbo.com": [
+      "12378 badges"
+    ],
+    "habbo.st": [
+      "25469 badges"
+    ],
+    "habbocity.fr": [
+      "52328 furnis"
+    ],
+    "habborp.city": [
+      "35532 furnis"
+    ],
+    "haddoz.net": [
+      "29451 furnis"
+    ],
+    "hartico.tv": [
+      "15335 badges"
+    ],
+    "peacehotel.my": [
+      "21212 furnis"
+    ],
+    "wibbo.org": [
+      "19743 badges"
+    ]
+  },
+  "2026-07-28": {
     "anubisrp.com": [
       "11349 badges",
       "25133 furnis",
@@ -31444,13 +31481,13 @@
       "662 effects"
     ],
     "habblet.city": [
-      "11739 badges",
-      "38056 furnis",
+      "11742 badges",
+      "38057 furnis",
       "4827 clothes",
       "468 effects"
     ],
     "habblive.in": [
-      "46014 badges",
+      "46023 badges",
       "55672 furnis",
       "6745 clothes",
       "528 effects"
@@ -31471,10 +31508,10 @@
       "7616 clothes",
       "514 effects",
       "14759 badges",
-      "42059 furnis"
+      "42064 furnis"
     ],
     "habbo.com": [
-      "12378 badges",
+      "12379 badges",
       "17924 furnis",
       "11061 clothes",
       "249 effects"
@@ -31552,7 +31589,7 @@
       "7921 badges",
       "44240 furnis",
       "6708 clothes",
-      "466 effects"
+      "449 effects"
     ],
     "hobba.tv": [
       "32081 furnis",
@@ -31568,7 +31605,7 @@
     ],
     "hubba.cc": [
       "12756 badges",
-      "29726 furnis",
+      "29729 furnis",
       "3403 clothes",
       "216 effects"
     ],
@@ -31585,7 +31622,7 @@
       "466 effects"
     ],
     "leethotel.biz": [
-      "10698 badges",
+      "10741 badges",
       "41016 furnis",
       "4827 clothes",
       "292 effects"
@@ -31604,8 +31641,8 @@
     ],
     "peacehotel.my": [
       "7946 badges",
-      "21212 furnis",
-      "4302 clothes",
+      "21214 furnis",
+      "4303 clothes",
       "443 effects"
     ],
     "sadierp.com": [
@@ -31627,7 +31664,7 @@
       "503 effects"
     ],
     "xkekos.tv": [
-      "64969 furnis"
+      "64710 furnis"
     ]
   }
 }
