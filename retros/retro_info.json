@@ -111,6 +111,13 @@
       "discord": "https://discord.gg/xkekos"
     }
   },
+  "spacehotell.nl": {
+    "channel_id": 1268206663832440964,
+    "retro_info": {
+      "site": "https://spacehotell.nl",
+      "discord": "<https://discord.gg/spacehotel-nl-be-581626037889269762>"
+    }
+  },
   "gthotel.org": {
     "channel_id": 1336481768680718386,
     "retro_info": {
@@ -144,13 +151,6 @@
     "retro_info": {
       "site": "https://hubba.cc",
       "discord": "https://discord.gg/GsuNAcWpaq"
-    }
-  },
-  "sadierp.com": {
-    "channel_id": 1498782653120512127,
-    "retro_info": {
-      "site": "https://sadierp.com",
-      "discord": "https://discord.gg/cDRS7WvjnW"
     }
   },
   "fresh-hotel.org": {
