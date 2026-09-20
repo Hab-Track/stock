@@ -76,6 +76,13 @@
       "discord": "https://discord.gg/jAsGJVNaEv"
     }
   },
+  "habfun.biz": {
+    "channel_id": 1550969186107396258,
+    "retro_info": {
+      "site": "https://habfun.biz",
+      "discord": null
+    }
+  },
   "habblet.city": {
     "channel_id": 1268205315598585888,
     "retro_info": {
@@ -88,13 +95,6 @@
     "retro_info": {
       "site": "https://leet.city",
       "discord": "https://discord.gg/eVrxjjQfJj"
-    }
-  },
-  "hartix.es": {
-    "channel_id": 1484146619459960934,
-    "retro_info": {
-      "site": "https://hartix.es",
-      "discord": "https://discord.gg/Z9Vs8zJuNh"
     }
   },
   "wibbo.org": {
@@ -118,11 +118,25 @@
       "discord": "<https://discord.gg/spacehotel-nl-be-581626037889269762>"
     }
   },
+  "hobba.tv": {
+    "channel_id": 1463596191089688710,
+    "retro_info": {
+      "site": "https://hobba.tv",
+      "discord": "https://discord.com/invite/f8KsUyqN"
+    }
+  },
   "gthotel.org": {
     "channel_id": 1336481768680718386,
     "retro_info": {
       "site": "https://gthotel.org",
       "discord": "https://discord.gg/nCGAWsJbaG"
+    }
+  },
+  "playhabborp.com": {
+    "channel_id": 1550963459850768426,
+    "retro_info": {
+      "site": "https://playhabborp.com",
+      "discord": "https://discord.gg/kbs2kqHkaE"
     }
   },
   "habbo.st": {
@@ -238,6 +252,13 @@
     "retro_info": {
       "site": "https://vergerp.com",
       "discord": "https://discord.gg/pTjGf3qvgs"
+    }
+  },
+  "habz.es": {
+    "channel_id": 1550966214837141694,
+    "retro_info": {
+      "site": "https://habz.es",
+      "discord": null
     }
   },
   "ironhotel.org": {
